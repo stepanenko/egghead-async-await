@@ -1,5 +1,7 @@
 # Egghead: [Asynchronous JavaScript with async/await](https://coursehunters.net/course/egghead-async-await)
 
+Duration: 00:18:12
+
 Урок 1. write an asynchronous function with async await 00:02:01
 
 Урок 2. call an asynchronous function in a promise-chain 00:01:36
