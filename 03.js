@@ -1,7 +1,7 @@
 
 const fetch = require('node-fetch');
 
-const showGitHubUser = async function(handle) {
+const showGitHubUser = async (handle) => {
   const url = `https://api.github.com/users/${handle}`;
   const response = await fetch(url);
   return await response.json();
