@@ -2,8 +2,6 @@
 
 Duration: 00:18:12
 
-Урок 2. call an asynchronous function in a promise-chain 00:01:36
-
 Урок 3. convert any function into an asynchronous function 00:02:31
 
 Урок 4. handle errors in asynchronous functions 00:02:39
